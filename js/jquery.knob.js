@@ -421,7 +421,7 @@
                 position: "absolute",
                 "vertical-align": "middle",
                 "margin-top": ((this.w / 3 >> 0)*ratio) + "px",
-                "margin-left": "-" + (this.w * 3 / 4 + 2 >> 0)/(ratio + 0.24) + "px",
+                "margin-left": "-" + (this.w * 3 / 4 + 2 >> 0)/(ratio + 0.25) + "px",
                 border: 0,
                 background: "none",
                 font: this.o.fontWeight + " " + ((this.w / e >> 0)/ratio) + "px " + this.o.font,
